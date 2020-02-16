@@ -1,0 +1,12 @@
+body{
+        background-image: url(flight.jpg);
+        background-size: cover;
+        background-repeat:no-repeat;
+}
+.bod {
+    margin-right: 10%;
+    margin-top: 10%;
+    background-color: rgba(0,0,0,0.5);
+    width: 400px;
+    height: 350px;
+}
