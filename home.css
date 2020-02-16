@@ -1,0 +1,41 @@
+body{
+        background-image: url(flight.jpg);
+        background-size: 100% 100%;
+        background-repeat:no-repeat;
+    }
+    header
+    {
+    	margin-top:100px;
+    	margin-bottom:100px;
+    }
+
+.topnav
+{
+overflow: hidden;
+float: right;
+}
+.topnav a{
+float: right;
+display: block;
+text-decoration: none;
+
+}
+ul li{
+list-style-type:none;
+display: inline-block;
+}
+li a{
+color:black;
+padding: 10px;
+font-family: sans-serif;
+font-family: bold;
+text-decoration: none;
+}
+ul li.active a{ background-color: #fff;
+ color: #000;
+
+}
+li a:hover{
+color: white;
+    background-color: red;
+}
